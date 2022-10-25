@@ -1,2 +1,2 @@
-#ATR ,Hour (-_-)
+#ATR (-_-)
 Simple Hour  ^_^
