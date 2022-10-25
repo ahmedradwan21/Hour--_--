@@ -44,3 +44,8 @@ setInterval(() => {
 	mm.style.strokeDashoffset = 440 - (440 * m) / 60;
 	ss.style.strokeDashoffset = 440 - (440 * s) / 60;
 });
+
+// 
+// 
+// 
+// 
